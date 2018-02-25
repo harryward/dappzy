@@ -13,8 +13,14 @@ Ether: 0xC0efc2BE5ac7aa99866c29100E0c0e7948282AC8
 
 ### Installation
 
+#### Node
+
 ```
 npm install dappzy
+```
+
+#### Meteor
+```
 meteor npm install dappzy --save
 ```
 
