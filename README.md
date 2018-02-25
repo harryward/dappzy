@@ -42,9 +42,7 @@ Refer to the [Web3](https://github.com/ethereum/web3.js/) documentation.
 
 ```
 
-### Development
 
-Feel free to fork from [etherchain-node](https://github.com/sgsshankar/etherchain-node)
 
 ### Issues
 
