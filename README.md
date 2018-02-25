@@ -39,7 +39,7 @@ Feel free to fork from [etherchain-node](https://github.com/sgsshankar/etherchai
 
 ### Issues
 
-https://github.com/sgsshankar/etherchain-node/issues
+https://github.com/haryward/dappzy/issues
 
 
 
