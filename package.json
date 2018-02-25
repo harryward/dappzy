@@ -25,10 +25,10 @@
   "main": "dappzy.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/sgsshankar/dappzy.git"
+    "url": "git://github.com/harryward/dappzy.git"
   },
   "bugs": {
-    "url": "https://github.com/sgsshankar/dappzy/issues"
+    "url": "https://github.com/harryward/dappzy/issues"
   },
   "dependencies": {
     "web3": "^0.20.5",
