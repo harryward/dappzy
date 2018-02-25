@@ -1,35 +1,36 @@
 # dappzy
-Node JS api for the Etherium blockchain
+Ethereum Blockchain IPC Cloud - No More Local Ethereum Blockchain Syncing
+
+### Donations
+
+```
+Ether: 0xC0efc2BE5ac7aa99866c29100E0c0e7948282AC8
+```
+
 
 ### Installation
 
 ```
-npm install etherchain
+npm install dappzy
+meteor npm install dappzy --save
 ```
 
 ### Instance
 
 ```
-var etherchain = require('etherchain');
+var dappzy = require('dappzy'); // run on server or client
 ```
 ### Usage
 
 ```
-etherchain.method(<args>).then(function(response) {
-		//Results here
-	});
+web3.eth.coinbase(); // run on server or client
+
 ```
 
 ### Methods
-Refer to the [Etherchain API](https://etherchain.org/apidoc) to know about each output and explanation
+Refer to the [Web3](https://github.com/ethereum/web3.js/) documentation.
 ```
-getBasicStats()
-getBlocks(offset, count)
-getBlock(id)
-getBlockTransaction(id)
-getTransaction(id)
-getAccount(id)
-getAccountTransaction(id, offset)
+
 ```
 
 ### Development
