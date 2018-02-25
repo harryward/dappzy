@@ -1,7 +1,7 @@
 {
   "name": "dappzy",
-  "version": "1.0.1",
-  "description": "nodejs API for Etherium Blockchain",
+  "version": "1.0.0",
+  "description": "Ethereum Blockchain IPC Cloud - No More Local Ethereum Blockchain Syncing",
   "scripts": {
     "test": "node dappzy.js",
     "start": "node dappzy.js"

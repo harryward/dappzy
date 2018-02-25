@@ -1,4 +1,4 @@
-# etherchain-node
+# dappzy
 Node JS api for the Etherium blockchain
 
 ### Installation
