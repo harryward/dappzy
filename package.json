@@ -1,0 +1,38 @@
+{
+  "name": "dappzy",
+  "version": "1.0.1",
+  "description": "nodejs API for Etherium Blockchain",
+  "scripts": {
+    "test": "node dappzy.js",
+    "start": "node dappzy.js"
+  },
+  "keywords": [
+    "etherchain",
+    "ethereum blockchain",
+    "ethereum ipc",
+    "ethereum cloud blockchain",
+    "dapps",
+    "ethereum",
+    "ethereum main network",
+    "ethereum private network",
+    "ethereum rinkeby network",
+  ],
+  "author": {
+    "name": "harryward",
+    "email": "harry@coinminefarms.com",
+    "url": "http://github.com/harryward"
+  },
+  "main": "dappzy.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sgsshankar/dappzy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sgsshankar/dappzy/issues"
+  },
+  "dependencies": {
+    "web3": "^0.20.5",
+    "web3-providers-ipc": "^1.0.0-beta.28"
+  },
+  "license": "Apache License"
+}
