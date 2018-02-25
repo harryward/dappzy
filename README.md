@@ -46,5 +46,5 @@ https://github.com/haryward/dappzy/issues
 
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sgsshankar/etherchain-node/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 
