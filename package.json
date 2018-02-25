@@ -1,38 +1,33 @@
 {
   "name": "dappzy",
   "version": "1.0.0",
-  "description": "Ethereum Blockchain IPC Cloud - No More Local Ethereum Blockchain Syncing",
-  "scripts": {
-    "test": "node dappzy.js",
-    "start": "node dappzy.js"
-  },
-  "keywords": [
-    "etherchain",
-    "ethereum blockchain",
-    "ethereum ipc",
-    "ethereum cloud blockchain",
-    "dapps",
-    "ethereum",
-    "ethereum main network",
-    "ethereum private network",
-    "ethereum rinkeby network",
-  ],
-  "author": {
-    "name": "harryward",
-    "email": "harry@coinminefarms.com",
-    "url": "http://github.com/harryward"
-  },
+  "description": "Ethereum Blockchain IPC Cloud for dApps - No More Local Ethereum Blockchain Syncing",
   "main": "dappzy.js",
+  "scripts": {
+    "test": "npm run test"
+  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/harryward/dappzy.git"
+    "url": "git+https://github.com/harryward/dappzy.git"
   },
+  "keywords": [
+    "eth",
+    "blockchain",
+    "blockchain",
+    "api",
+    "blockchain",
+    "ipc",
+    "dapp",
+    "resources",
+    "dapps",
+    "ethereum",
+    "blockchain",
+    "cloud"
+  ],
+  "author": "harryward",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/harryward/dappzy/issues"
   },
-  "dependencies": {
-    "web3": "^0.20.5",
-    "web3-providers-ipc": "^1.0.0-beta.28"
-  },
-  "license": "Apache License"
+  "homepage": "https://github.com/harryward/dappzy#readme"
 }
